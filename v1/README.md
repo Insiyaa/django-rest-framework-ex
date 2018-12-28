@@ -1,4 +1,4 @@
-# restful01
+# v1
 
 First version of a simple Django RESTful Web Service that interacts with an SQLite database
 
