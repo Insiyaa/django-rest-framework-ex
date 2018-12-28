@@ -1,6 +1,6 @@
 # v2
 
-Improved our simple Django RESTful Web Service.
+Improved the simple Django RESTful Web Service.
 
 Took advantage of model serializers. Then, understood the different accepted and returned content types and the importance of providing accurate responses to the HTTP OPTIONS requests.
 
